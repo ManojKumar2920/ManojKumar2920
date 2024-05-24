@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ManojKumar2920&color=blue&style=plastic)
+
 ## Hey👋, It's Manoj
 A Passionate Software Engineer From Tamilnadu, India
 
@@ -25,8 +27,6 @@ A Passionate Software Engineer From Tamilnadu, India
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManojKumar2920&icon=5&color=6)](https://visitcount.itsvg.in)
-
 
 <picture>
   <source
